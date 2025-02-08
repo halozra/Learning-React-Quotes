@@ -10,6 +10,15 @@ const backgrounds = [
   "url('https://c4.wallpaperflare.com/wallpaper/317/897/146/1920x1080-px-dark-heath-ledger-joker-monochrome-animals-frogs-hd-art-wallpaper-preview.jpg')",
   "url('https://c4.wallpaperflare.com/wallpaper/373/676/41/kimetsu-no-yaiba-anime-anime-boys-tanjiro-kamado-kamado-tanjirō-hd-wallpaper-preview.jpg')",
   "url('https://c4.wallpaperflare.com/wallpaper/158/774/427/anime-studio-ghibli-spirited-away-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/400/369/234/2560x1080-px-fantasy-art-painting-ultra-wide-anime-naruto-hd-art-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/664/373/122/forest-mikael-gustafsson-landscape-horizon-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/40/849/87/anime-girls-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/165/511/588/anime-girls-gun-school-uniform-houkai-gakuen-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/258/501/148/berserk-black-swordsman-guts-kentaro-miura-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/590/529/244/anime-naruto-kakashi-hatake-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/736/555/702/anime-berserk-forest-guts-berserk-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/249/973/174/anime-jujutsu-kaisen-yuji-itadori-hd-wallpaper-preview.jpg')",
+  
 ];
 
 function App() {
