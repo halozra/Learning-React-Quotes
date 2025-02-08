@@ -4,12 +4,12 @@ import { useState } from "react";
 const url = "https://api.api-ninjas.com/v1/quotes?";
 const apiKey = import.meta.env.VITE_KEY;
 const backgrounds = [
-  "url('/src/assets/hadHDBahdbsahbdwud001.jpg')",
-  "url('/src/assets/hadHDBahdbsahbdwud002.jpg')",
-  "url('/src/assets/hadHDBahdbsahbdwud003.jpg')",
-  "url('/src/assets/hadHDBahdbsahbdwud004.jpg')",
-  "url('/src/assets/hadHDBahdbsahbdwud005.jpg')",
-  "url('/src/assets/hadHDBahdbsahbdwud006.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/695/331/660/digital-art-artwork-women-cityscape-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/803/347/759/anime-natural-light-landscape-forest-studio-ghibli-hd-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/822/323/828/spiderman-into-the-spider-verse-2018-movies-movies-spiderman-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/317/897/146/1920x1080-px-dark-heath-ledger-joker-monochrome-animals-frogs-hd-art-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/373/676/41/kimetsu-no-yaiba-anime-anime-boys-tanjiro-kamado-kamado-tanjirō-hd-wallpaper-preview.jpg')",
+  "url('https://c4.wallpaperflare.com/wallpaper/158/774/427/anime-studio-ghibli-spirited-away-wallpaper-preview.jpg')",
 ];
 
 function App() {
